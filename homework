@@ -1,0 +1,28 @@
+Q.1-what is python?  
+ANS-Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.  Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse
+
+
+Q.2-why python is popular?
+ANS-Table of Contents	
+Why is Python so Popular?
+1) Easy to Learn and Use
+2) Mature and Supportive Python Community
+3) Support from Renowned Corporate Sponsors
+4) Hundreds of Python Libraries and Frameworks
+5) Versatility, Efficiency, Reliability, and Speed
+6) Big data, Machine Learning and Cloud Computing
+7) First-choice Language
+8) The Flexibility of Python Language
+9) Use of python in academics
+10) Automation 
+
+Q.3- dfference between compiler and interpreter?
+ANS-ompliers and interpreters are programs that help convert the high level language(Source Code) into machine codes to be understood by the computers.
+Computer programs are usually written on high level languages.A high level language is one that can be understood by humans. To make it clear, they contain words and phrases from the laguages in common use-english or other languages for example.However, computers cannot understand high level languages as we humans do.they can only understand the programs that are developed in binary systems known as mahine code.To start with, a computer program is usually written in high level languge known as source code.these source codes must be converted in machine language and here comes the role of interpreters ad compilers.
+
+COMPILERS-To start with, a compiler creates the program. It will  It will analyze all the language statements to check if they are correct.If it comes across something incorrect, it will give an error message.if there are no errors spotted, the compiler will covert the source code into machine code.the compiler links the different code files into programs that can run such as exe. finally the program runs.
+
+INTERPRETER-an interpreter creates the program. it neither links files or generate machine code. the source statements are executed line by line while executing the program.
+
+PROS AND CONS
+
